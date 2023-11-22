@@ -1,7 +1,7 @@
 [
   {
     "name": "Arnhem",
-    "url": "/maps/arnhemlane/{z}_{x}_{y}.jpg",
+    "url": "/maps/arnhem/{z}_{x}_{y}.jpg",
     "bounds": [4000, 4000]
   },
   {
