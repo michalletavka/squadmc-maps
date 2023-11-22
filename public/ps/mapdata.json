@@ -27,7 +27,7 @@
   },
   {
     "name": "Colmar",
-    "url": "/maps/colmar/{z}_{x}_{y}.png",
+    "url": "/maps/colmar/{z}_{x}_{y}.jpg",
     "extra": {
       "minimap": [
         [-2016,-2016],
@@ -57,7 +57,7 @@
   },
   {
     "name": "Foy",
-    "url": "/maps/foy/{z}_{x}_{y}.png",
+    "url": "/maps/foy/{z}_{x}_{y}.jpg",
     "extra": {
       "minimap": [
         [-1600,-1600],
@@ -97,10 +97,10 @@
   },
   {
     "name": "Maginot",
-    "url": "/maps/maginot/{z}_{x}_{y}.png",
+    "url": "/maps/maginot/{z}_{x}_{y}.jpg",
     "heightmap": {
       "url": "/heightmaps/maginot.jpg",
-      "tile": "/heightmaps/maginot/{z}_{x}_{y}.png",
+      "tile": "/heightmaps/maginot/{z}_{x}_{y}.jpg",
       "scale": 0.15
     },
     "extra": {
@@ -126,7 +126,7 @@
   },
   {
     "name": "Maleme",
-    "url": "/maps/maleme/{z}_{x}_{y}.png",
+    "url": "/maps/maleme/{z}_{x}_{y}.jpg",
     "bounds": [4000, 4000]
   },
   {
@@ -208,52 +208,52 @@
   },
   {
     "name": "Velmolen Foto",
-    "url": "/maps/velmolenfoto/{z}_{x}_{y}.png",
+    "url": "/maps/velmolenfoto/{z}_{x}_{y}.jpg",
     "bounds": [2200, 2200]
   },
   {
     "name": "Modded - Bluecoat",
-    "url": "/maps/bluecoat/{z}_{x}_{y}.png",
+    "url": "/maps/bluecoat/{z}_{x}_{y}.jpg",
     "bounds": [2044, 2040]
   },
   {
     "name": "Modded - Cagny",
-    "url": "/maps/cagny/{z}_{x}_{y}.png",
+    "url": "/maps/cagny/{z}_{x}_{y}.jpg",
     "bounds": [3552, 3552]
   },
   {
     "name": "Modded - Etreham",
-    "url": "/maps/etreham/{z}_{x}_{y}.png",
+    "url": "/maps/etreham/{z}_{x}_{y}.jpg",
     "bounds": [1533, 1533]
   },
   {
     "name": "Modded - Longues-sur-Mer",
-    "url": "/maps/longues/{z}_{x}_{y}.png",
+    "url": "/maps/longues/{z}_{x}_{y}.jpg",
     "bounds": [2787, 2787]
   },
   {
     "name": "Modded - Overloon",
-    "url": "/maps/overloon/{z}_{x}_{y}.png",
+    "url": "/maps/overloon/{z}_{x}_{y}.jpg",
     "bounds": [4100, 4100]
   },
   {
     "name": "Modded - Ramelle",
-    "url": "/maps/ramelle/{z}_{x}_{y}.png",
+    "url": "/maps/ramelle/{z}_{x}_{y}.jpg",
     "bounds": [1008, 1007]
   },
   {
     "name": "Modded - Siegfriedline",
-    "url": "/maps/siegfriedline/{z}_{x}_{y}.png",
+    "url": "/maps/siegfriedline/{z}_{x}_{y}.jpg",
     "bounds": [2000, 2000]
   },
   {
     "name": "Modded - Simonskall",
-    "url": "/maps/simonskall/{z}_{x}_{y}.png",
+    "url": "/maps/simonskall/{z}_{x}_{y}.jpg",
     "bounds": [3000, 3000]
   },
   {
     "name": "Modded - Villers Bocage",
-    "url": "/maps/villers/{z}_{x}_{y}.png",
+    "url": "/maps/villers/{z}_{x}_{y}.jpg",
     "bounds": [2015, 2015]
   }
 ]
