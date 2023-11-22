@@ -1,23 +1,44 @@
 [
   {
-    "name": "Arnhem Range",
-    "url": "/maps/arnhem/{z}_{x}_{y}.jpg",
-    "bounds": [756, 756]
-  },
-  {
-    "name": "Arnhem Lane 1",
+    "name": "Arnhem",
     "url": "/maps/arnhemlane/{z}_{x}_{y}.jpg",
     "bounds": [4000, 4000]
   },
   {
     "name": "Best",
     "url": "/maps/best/{z}_{x}_{y}.jpg",
-    "bounds": [2000, 2000]
+    "bounds": [2000, 2000],
+    "locations": [
+      ["Pontoon", [1135,1470]]
+    ]
+  },
+  {
+    "name": "Best Foto",
+    "url": "/maps/bestfoto/{z}_{x}_{y}.jpg",
+    "bounds": [2000, 2000],
+    "locations": [
+      ["Pontoon", [1135,1470]]
+    ]
   },
   {
     "name": "Carentan",
     "url": "/maps/carentan/{z}_{x}_{y}.jpg",
     "bounds": [2300,2300]
+  },
+  {
+    "name": "Colmar",
+    "url": "/maps/colmar/{z}_{x}_{y}.png",
+    "extra": {
+      "minimap": [
+        [-2016,-2016],
+        [2016,2016]
+      ],
+      "lOrigin": [
+        -2016,
+        -2016
+      ]
+    },
+    "bounds": [4032,4032]
   },
   {
     "name": "Dinant",
@@ -35,14 +56,78 @@
     "bounds": [4915, 4892]
   },
   {
+    "name": "Foy",
+    "url": "/maps/foy/{z}_{x}_{y}.png",
+    "extra": {
+      "minimap": [
+        [-1600,-1600],
+        [1600,1600]
+      ],
+      "lOrigin": [
+        -1524,
+        -1524
+      ]
+    },
+    "bounds": [3200, 3200]
+  },
+  {
     "name": "Grave",
     "url": "/maps/grave/{z}_{x}_{y}.jpg",
     "bounds": [3060, 3060]
   },
   {
+    "name": "Hagenau",
+    "url": "/maps/hagenau/{z}_{x}_{y}.jpg",
+    "extra": {
+      "minimap": [
+        [-1700,-1700],
+        [1700,1700]
+      ],
+      "lOrigin": [
+        2310,
+        -1493
+      ]
+    },
+    "bounds": [3400, 3400]
+  },
+  {
     "name": "Heelsum",
     "url": "/maps/heelsum/{z}_{x}_{y}.jpg",
     "bounds": [5611, 5611]
+  },
+  {
+    "name": "Maginot",
+    "url": "/maps/maginot/{z}_{x}_{y}.png",
+    "heightmap": {
+      "url": "/heightmaps/maginot.jpg",
+      "tile": "/heightmaps/maginot/{z}_{x}_{y}.png",
+      "scale": 0.15
+    },
+    "extra": {
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "levels": [
+        131,
+        155
+      ],
+      "hDim": [
+        1960,
+        1960
+      ],
+      "lOrigin": [
+        -898,
+        -859
+      ]
+    },
+    "bounds": [1960, 1960]
+  },
+  {
+    "name": "Maleme",
+    "url": "/maps/maleme/{z}_{x}_{y}.png",
+    "bounds": [4000, 4000]
   },
   {
     "name": "Oosterbeek",
@@ -62,7 +147,54 @@
   {
     "name": "Utah",
     "url": "/maps/utah/{z}_{x}_{y}.jpg",
-    "bounds": [3000, 3000]
+    "bounds": [3000, 3000],
+    "locations": [
+      ["1", [1167,2088]],
+      ["2", [1222,2087]],
+      ["3", [1284,2078]],
+      ["4", [1382,2095]],
+      ["5", [1432,2102]],
+      ["6", [1477,2126]],
+      ["7", [1708,2196]],
+      ["8", [1778,2229]],
+      ["9", [1818,2224]],
+      
+      ["A", [2020,2263]],
+      ["B", [2056,2270]],
+      ["C", [2106,2269]],
+      ["D", [2282,2280]],
+      ["E", [2312,2294]],
+      ["F", [2323,2297]],
+      ["G", [2547,2321]],
+      ["H", [2603,2333]],
+      ["I", [2637,2328]]
+    ]
+  },
+  {
+    "name": "Utah Foto",
+    "url": "/maps/utahfoto/{z}_{x}_{y}.jpg",
+    "bounds": [3000, 3000],
+    "locations": [
+      ["1", [1167,2088]],
+      ["2", [1222,2087]],
+      ["3", [1284,2078]],
+      ["4", [1382,2095]],
+      ["5", [1432,2102]],
+      ["6", [1477,2126]],
+      ["7", [1708,2196]],
+      ["8", [1778,2229]],
+      ["9", [1818,2224]],
+      
+      ["A", [2020,2263]],
+      ["B", [2056,2270]],
+      ["C", [2106,2269]],
+      ["D", [2282,2280]],
+      ["E", [2312,2294]],
+      ["F", [2323,2297]],
+      ["G", [2547,2321]],
+      ["H", [2603,2333]],
+      ["I", [2637,2328]]
+    ]
   },
   {
     "name": "Veghel",
@@ -73,5 +205,55 @@
     "name": "Velmolen",
     "url": "/maps/velmolen/{z}_{x}_{y}.jpg",
     "bounds": [2200, 2200]
+  },
+  {
+    "name": "Velmolen Foto",
+    "url": "/maps/velmolenfoto/{z}_{x}_{y}.png",
+    "bounds": [2200, 2200]
+  },
+  {
+    "name": "Modded - Bluecoat",
+    "url": "/maps/bluecoat/{z}_{x}_{y}.png",
+    "bounds": [2044, 2040]
+  },
+  {
+    "name": "Modded - Cagny",
+    "url": "/maps/cagny/{z}_{x}_{y}.png",
+    "bounds": [3552, 3552]
+  },
+  {
+    "name": "Modded - Etreham",
+    "url": "/maps/etreham/{z}_{x}_{y}.png",
+    "bounds": [1533, 1533]
+  },
+  {
+    "name": "Modded - Longues-sur-Mer",
+    "url": "/maps/longues/{z}_{x}_{y}.png",
+    "bounds": [2787, 2787]
+  },
+  {
+    "name": "Modded - Overloon",
+    "url": "/maps/overloon/{z}_{x}_{y}.png",
+    "bounds": [4100, 4100]
+  },
+  {
+    "name": "Modded - Ramelle",
+    "url": "/maps/ramelle/{z}_{x}_{y}.png",
+    "bounds": [1008, 1007]
+  },
+  {
+    "name": "Modded - Siegfriedline",
+    "url": "/maps/siegfriedline/{z}_{x}_{y}.png",
+    "bounds": [2000, 2000]
+  },
+  {
+    "name": "Modded - Simonskall",
+    "url": "/maps/simonskall/{z}_{x}_{y}.png",
+    "bounds": [3000, 3000]
+  },
+  {
+    "name": "Modded - Villers Bocage",
+    "url": "/maps/villers/{z}_{x}_{y}.png",
+    "bounds": [2015, 2015]
   }
 ]
