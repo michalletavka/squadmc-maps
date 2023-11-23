@@ -51,6 +51,11 @@
     "bounds": [4036, 4036]
   },
   {
+    "name": "Doorwerth Foto",
+    "url": "/maps/doorwerthfoto/{z}_{x}_{y}.jpg",
+    "bounds": [4036, 4036]
+  },
+  {
     "name": "Driel",
     "url": "/maps/driel/{z}_{x}_{y}.jpg",
     "bounds": [4915, 4895]
