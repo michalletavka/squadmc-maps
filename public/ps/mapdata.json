@@ -53,7 +53,12 @@
   {
     "name": "Driel",
     "url": "/maps/driel/{z}_{x}_{y}.jpg",
-    "bounds": [4915, 4892]
+    "bounds": [4915, 4895]
+  },
+  {
+    "name": "Driel Foto",
+    "url": "/maps/drielfoto/{z}_{x}_{y}.jpg",
+    "bounds": [4915, 4895]
   },
   {
     "name": "Foy",
