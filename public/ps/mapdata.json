@@ -2,7 +2,26 @@
   {
     "name": "Arnhem",
     "url": "/maps/arnhem/{z}_{x}_{y}.jpg",
-    "bounds": [4000, 4000]
+    "bounds": [4000, 4000],
+    "locations": [
+      ["Pontoon (S03 only)", [846,1721]],
+      ["Pontoon (S03 only)", [990,1627]],
+      ["Pontoon", [1426,2274]],
+      ["Pontoon", [1322,2396]],
+      ["Guard House", [1093,2211]]
+    ]
+  },
+  {
+    "name": "Arnhem Foto",
+    "url": "/maps/arnhemfoto/{z}_{x}_{y}.jpg",
+    "bounds": [4000, 4000],
+    "locations": [
+      ["Pontoon (S03 only)", [846,1721]],
+      ["Pontoon (S03 only)", [990,1627]],
+      ["Pontoon", [1426,2274]],
+      ["Pontoon", [1322,2396]],
+      ["Guard House", [1093,2211]]
+    ]
   },
   {
     "name": "Best",
@@ -58,12 +77,30 @@
   {
     "name": "Driel",
     "url": "/maps/driel/{z}_{x}_{y}.jpg",
-    "bounds": [4915, 4895]
+    "bounds": [4916, 4895],
+    "locations": [
+      ["Pontoon", [979,4481]],
+      ["Pontoon", [807,3360]],
+      ["Inf only", [1083,4179]],
+      ["Inf only", [940,3737]],
+      ["Two Towers", [1267,3856]],
+      ["1st Platform", [1332,3832]],
+      ["2nd Platform", [1361,3821]]
+    ]
   },
   {
     "name": "Driel Foto",
     "url": "/maps/drielfoto/{z}_{x}_{y}.jpg",
-    "bounds": [4915, 4895]
+    "bounds": [4916, 4895],
+    "locations": [
+      ["Pontoon", [979,4481]],
+      ["Pontoon", [807,3360]],
+      ["Inf only", [1083,4179]],
+      ["Inf only", [940,3737]],
+      ["Two Towers", [1267,3856]],
+      ["1st Platform", [1332,3832]],
+      ["2nd Platform", [1361,3821]]
+    ]
   },
   {
     "name": "Foy",
