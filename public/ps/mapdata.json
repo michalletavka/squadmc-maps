@@ -246,7 +246,22 @@
   {
     "name": "Veghel",
     "url": "/maps/veghel/{z}_{x}_{y}.jpg",
-    "bounds": [3060, 3060]
+    "bounds": [3059, 3059],
+    "locations": [
+      ["Crossing", [1564,612]],
+      ["Crossing", [2076,1182]],
+      ["Crossing", [2377,1509]]
+    ]
+  },
+  {
+    "name": "Veghel Foto",
+    "url": "/maps/veghelfoto/{z}_{x}_{y}.jpg",
+    "bounds": [3059, 3059],
+    "locations": [
+      ["Crossing", [1564,612]],
+      ["Crossing", [2076,1182]],
+      ["Crossing", [2377,1509]]
+    ]
   },
   {
     "name": "Velmolen",
