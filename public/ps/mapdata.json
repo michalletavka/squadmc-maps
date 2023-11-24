@@ -220,7 +220,12 @@
   },
   {
     "name": "Oosterbeek",
-    "url": "/maps/johanna/{z}_{x}_{y}.jpg",
+    "url": "/maps/oosterbeek/{z}_{x}_{y}.jpg",
+    "bounds": [4525, 4508]
+  },
+  {
+    "name": "Oosterbeek Foto",
+    "url": "/maps/oosterbeekfoto/{z}_{x}_{y}.jpg",
     "bounds": [4525, 4508]
   },
   {
