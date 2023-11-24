@@ -146,6 +146,20 @@
     ]
   },
   {
+    "name": "Grave Foto",
+    "url": "/maps/gravefoto/{z}_{x}_{y}.jpg",
+    "bounds": [3060, 3060],
+    "locations": [
+      ["Cheeky FOB spot", [390,817]],
+      ["Inf only", [723,1428]],
+      ["", [754,1379]],
+      ["", [819,1271]],
+      ["Pontoon", [1030,1618]],
+      ["", [1062,1563]],
+      ["", [1134,1435]]
+    ]
+  },
+  {
     "name": "Hagenau",
     "url": "/maps/hagenau/{z}_{x}_{y}.jpg",
     "extra": {
