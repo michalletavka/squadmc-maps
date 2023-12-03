@@ -3,18 +3,9 @@
     "name": "Arnhem",
     "url": "/maps/arnhem/{z}_{x}_{y}.jpg",
     "bounds": [4000, 4000],
-    "locations": [
-      ["Pontoon (S03 only)", [846,1721]],
-      ["Pontoon (S03 only)", [990,1627]],
-      ["Pontoon", [1426,2274]],
-      ["Pontoon", [1322,2396]],
-      ["Guard House", [1093,2211]]
-    ]
-  },
-  {
-    "name": "Arnhem Foto",
-    "url": "/maps/arnhemfoto/{z}_{x}_{y}.jpg",
-    "bounds": [4000, 4000],
+    "photomap": {
+      "tile": "/photomaps/arnhemphoto/{z}_{x}_{y}.jpg"
+    },
     "locations": [
       ["Pontoon (S03 only)", [846,1721]],
       ["Pontoon (S03 only)", [990,1627]],
@@ -27,14 +18,9 @@
     "name": "Best",
     "url": "/maps/best/{z}_{x}_{y}.jpg",
     "bounds": [2000, 2000],
-    "locations": [
-      ["Pontoon", [1135,1470]]
-    ]
-  },
-  {
-    "name": "Best Foto",
-    "url": "/maps/bestfoto/{z}_{x}_{y}.jpg",
-    "bounds": [2000, 2000],
+    "photomap": {
+      "tile": "/photomaps/bestphoto/{z}_{x}_{y}.jpg"
+    },
     "locations": [
       ["Pontoon", [1135,1470]]
     ]
@@ -81,31 +67,18 @@
   {
     "name": "Doorwerth",
     "url": "/maps/doorwerth/{z}_{x}_{y}.jpg",
-    "bounds": [4036, 4036]
-  },
-  {
-    "name": "Doorwerth Foto",
-    "url": "/maps/doorwerthfoto/{z}_{x}_{y}.jpg",
+    "photomap": {
+      "tile": "/photomaps/doorwerthphoto/{z}_{x}_{y}.jpg"
+    },
     "bounds": [4036, 4036]
   },
   {
     "name": "Driel",
     "url": "/maps/driel/{z}_{x}_{y}.jpg",
     "bounds": [4916, 4895],
-    "locations": [
-      ["Pontoon", [979,4481]],
-      ["Pontoon", [807,3360]],
-      ["Inf only", [1083,4179]],
-      ["Inf only", [940,3737]],
-      ["Two Towers", [1267,3856]],
-      ["1st Platform", [1332,3832]],
-      ["2nd Platform", [1361,3821]]
-    ]
-  },
-  {
-    "name": "Driel Foto",
-    "url": "/maps/drielfoto/{z}_{x}_{y}.jpg",
-    "bounds": [4916, 4895],
+    "photomap": {
+      "tile": "/photomaps/drielphoto/{z}_{x}_{y}.jpg"
+    },
     "locations": [
       ["Pontoon", [979,4481]],
       ["Pontoon", [807,3360]],
@@ -135,20 +108,9 @@
     "name": "Grave",
     "url": "/maps/grave/{z}_{x}_{y}.jpg",
     "bounds": [3060, 3060],
-    "locations": [
-      ["Cheeky FOB spot", [390,817]],
-      ["Inf only", [723,1428]],
-      ["", [754,1379]],
-      ["", [819,1271]],
-      ["Pontoon", [1030,1618]],
-      ["", [1062,1563]],
-      ["", [1134,1435]]
-    ]
-  },
-  {
-    "name": "Grave Foto",
-    "url": "/maps/gravefoto/{z}_{x}_{y}.jpg",
-    "bounds": [3060, 3060],
+    "photomap": {
+      "tile": "/photomaps/gravephoto/{z}_{x}_{y}.jpg"
+    },
     "locations": [
       ["Cheeky FOB spot", [390,817]],
       ["Inf only", [723,1428]],
@@ -177,12 +139,10 @@
   {
     "name": "Heelsum",
     "url": "/maps/heelsum/{z}_{x}_{y}.jpg",
-    "bounds": [5610, 5610]
-  },
-  {
-    "name": "Heelsum Foto",
-    "url": "/maps/heelsumfoto/{z}_{x}_{y}.jpg",
-    "bounds": [5610, 5610]
+    "bounds": [5610, 5610],
+    "photomap": {
+      "tile": "/photomaps/heelsumphoto/{z}_{x}_{y}.jpg"
+    }
   },
   {
     "name": "Maginot",
@@ -221,12 +181,10 @@
   {
     "name": "Oosterbeek",
     "url": "/maps/oosterbeek/{z}_{x}_{y}.jpg",
-    "bounds": [4525, 4508]
-  },
-  {
-    "name": "Oosterbeek Foto",
-    "url": "/maps/oosterbeekfoto/{z}_{x}_{y}.jpg",
-    "bounds": [4525, 4508]
+    "bounds": [4525, 4508],
+    "photomap": {
+      "tile": "/photomaps/oosterbeekphoto/{z}_{x}_{y}.jpg"
+    }
   },
   {
     "name": "St Mere Eglise",
@@ -242,32 +200,9 @@
     "name": "Utah",
     "url": "/maps/utah/{z}_{x}_{y}.jpg",
     "bounds": [3000, 3000],
-    "locations": [
-      ["1", [1167,2088]],
-      ["2", [1222,2087]],
-      ["3", [1284,2078]],
-      ["4", [1382,2095]],
-      ["5", [1432,2102]],
-      ["6", [1477,2126]],
-      ["7", [1708,2196]],
-      ["8", [1778,2229]],
-      ["9", [1818,2224]],
-      
-      ["A", [2020,2263]],
-      ["B", [2056,2270]],
-      ["C", [2106,2269]],
-      ["D", [2282,2280]],
-      ["E", [2312,2294]],
-      ["F", [2323,2297]],
-      ["G", [2547,2321]],
-      ["H", [2603,2333]],
-      ["I", [2637,2328]]
-    ]
-  },
-  {
-    "name": "Utah Foto",
-    "url": "/maps/utahfoto/{z}_{x}_{y}.jpg",
-    "bounds": [3000, 3000],
+    "photomap": {
+      "tile": "/photomaps/utahphoto/{z}_{x}_{y}.jpg"
+    },
     "locations": [
       ["1", [1167,2088]],
       ["2", [1222,2087]],
@@ -294,16 +229,9 @@
     "name": "Veghel",
     "url": "/maps/veghel/{z}_{x}_{y}.jpg",
     "bounds": [3059, 3059],
-    "locations": [
-      ["Crossing", [1564,612]],
-      ["Crossing", [2076,1182]],
-      ["Crossing", [2377,1509]]
-    ]
-  },
-  {
-    "name": "Veghel Foto",
-    "url": "/maps/veghelfoto/{z}_{x}_{y}.jpg",
-    "bounds": [3060, 3060],
+    "photomap": {
+      "tile": "/photomaps/veghelphoto/{z}_{x}_{y}.jpg"
+    },
     "locations": [
       ["Crossing", [1564,612]],
       ["Crossing", [2076,1182]],
@@ -313,11 +241,9 @@
   {
     "name": "Velmolen",
     "url": "/maps/velmolen/{z}_{x}_{y}.jpg",
-    "bounds": [2200, 2200]
-  },
-  {
-    "name": "Velmolen Foto",
-    "url": "/maps/velmolenfoto/{z}_{x}_{y}.jpg",
+    "photomap": {
+      "tile": "/photomaps/velmolenphoto/{z}_{x}_{y}.jpg"
+    },
     "bounds": [2200, 2200]
   },
   {
