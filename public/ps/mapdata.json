@@ -28,7 +28,10 @@
   {
     "name": "Carentan",
     "url": "/maps/carentan/{z}_{x}_{y}.jpg",
-    "bounds": [2300,2300]
+    "bounds": [2300,2300],
+    "photomap": {
+      "tile": "/photomaps/carentanphoto/{z}_{x}_{y}.jpg"
+    }
   },
   {
     "name": "Colmar",
