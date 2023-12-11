@@ -65,7 +65,10 @@
   {
     "name": "Dinant",
     "url": "/maps/dinant/{z}_{x}_{y}.jpg",
-    "bounds": [2295,2295]
+    "bounds": [2295,2295],
+    "photomap": {
+      "tile": "/photomaps/dinantphoto/{z}_{x}_{y}.jpg"
+    }
   },
   {
     "name": "Doorwerth",
