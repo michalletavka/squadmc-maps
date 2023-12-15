@@ -263,6 +263,11 @@
     "bounds": [3552, 3552]
   },
   {
+    "name": "Modded - Creully",
+    "url": "/maps/creully/{z}_{x}_{y}.jpg",
+    "bounds": [5333, 5333]
+  },
+  {
     "name": "Modded - Etreham",
     "url": "/maps/etreham/{z}_{x}_{y}.jpg",
     "bounds": [1533, 1533]
