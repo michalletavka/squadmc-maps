@@ -193,6 +193,11 @@
     }
   },
   {
+    "name": "Rethymno lite",
+    "url": "/maps/rethymno_lite/{z}_{x}_{y}.jpg",
+    "bounds": [4000, 4000]
+  },
+  {
     "name": "St Mere Eglise",
     "url": "/maps/stmereeglise/{z}_{x}_{y}.jpg",
     "bounds": [3300, 3300]
