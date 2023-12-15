@@ -293,6 +293,11 @@
     "bounds": [1008, 1007]
   },
   {
+    "name": "Modded - Saint-Lo",
+    "url": "/maps/saintlo/{z}_{x}_{y}.jpg",
+    "bounds": [3150, 3150]
+  },
+  {
     "name": "Modded - Siegfriedline",
     "url": "/maps/siegfriedline/{z}_{x}_{y}.jpg",
     "bounds": [2000, 2000]
