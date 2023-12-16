@@ -143,7 +143,10 @@
         -1493
       ]
     },
-    "bounds": [3400, 3400]
+    "bounds": [3400, 3400],
+    "photomap": {
+      "tile": "/photomaps/hagenauphoto/{z}_{x}_{y}.jpg"
+    }
   },
   {
     "name": "Heelsum",
