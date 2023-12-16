@@ -108,7 +108,10 @@
         -1524
       ]
     },
-    "bounds": [3200, 3200]
+    "bounds": [3200, 3200],
+    "photomap": {
+      "tile": "/photomaps/foyphoto/{z}_{x}_{y}.jpg"
+    }
   },
   {
     "name": "Grave",
