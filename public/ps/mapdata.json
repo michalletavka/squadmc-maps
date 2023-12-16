@@ -212,7 +212,10 @@
   {
     "name": "St Mere Eglise",
     "url": "/maps/stmereeglise/{z}_{x}_{y}.jpg",
-    "bounds": [3300, 3300]
+    "bounds": [3300, 3300],
+    "photomap": {
+      "tile": "/photomaps/stmereeglise/{z}_{x}_{y}.jpg"
+    }
   },
   {
     "name": "Stonne",
