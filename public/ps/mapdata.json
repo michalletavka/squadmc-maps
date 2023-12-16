@@ -177,7 +177,10 @@
         -859
       ]
     },
-    "bounds": [1960, 1960]
+    "bounds": [1960, 1960],
+    "photomap": {
+      "tile": "/photomaps/maginotphoto/{z}_{x}_{y}.jpg"
+    }
   },
   {
     "name": "Maleme",
