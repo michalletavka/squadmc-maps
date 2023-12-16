@@ -214,7 +214,7 @@
     "url": "/maps/stmereeglise/{z}_{x}_{y}.jpg",
     "bounds": [3300, 3300],
     "photomap": {
-      "tile": "/photomaps/stmereeglise/{z}_{x}_{y}.jpg"
+      "tile": "/photomaps/stmereeglisephoto/{z}_{x}_{y}.jpg"
     }
   },
   {
