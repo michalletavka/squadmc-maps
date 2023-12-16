@@ -205,7 +205,10 @@
   {
     "name": "Stonne",
     "url": "/maps/stonne/{z}_{x}_{y}.jpg",
-    "bounds": [3300, 3300]
+    "bounds": [3300, 3300],
+    "photomap": {
+      "tile": "/photomaps/stonnephoto/{z}_{x}_{y}.jpg"
+    }
   },
   {
     "name": "Utah",
