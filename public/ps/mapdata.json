@@ -60,7 +60,10 @@
         -2016
       ]
     },
-    "bounds": [4032,4032]
+    "bounds": [4032,4032],
+    "photomap": {
+      "tile": "/photomaps/colmarphoto/{z}_{x}_{y}.jpg"
+    }
   },
   {
     "name": "Dinant",
