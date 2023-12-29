@@ -276,6 +276,11 @@
     "bounds": [2200, 2200]
   },
   {
+    "name": "Modded - Bénouville",
+    "url": "/maps/benouville/{z}_{x}_{y}.jpg",
+    "bounds": [1950, 1950]
+  },
+  {
     "name": "Modded - Bluecoat",
     "url": "/maps/bluecoat/{z}_{x}_{y}.jpg",
     "bounds": [2044, 2040]
@@ -304,6 +309,11 @@
     "name": "Modded - Longues-sur-Mer",
     "url": "/maps/longues/{z}_{x}_{y}.jpg",
     "bounds": [2787, 2787]
+  },
+  {
+    "name": "Modded - Merville",
+    "url": "/maps/merville/{z}_{x}_{y}.jpg",
+    "bounds": [2777, 2788]
   },
   {
     "name": "Modded - Overloon",
