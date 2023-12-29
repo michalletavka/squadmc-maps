@@ -134,8 +134,8 @@
     ]
   },
   {
-    "name": "Hagenau",
-    "url": "/maps/hagenau/{z}_{x}_{y}.jpg",
+    "name": "Haguenau",
+    "url": "/maps/haguenau/{z}_{x}_{y}.jpg",
     "extra": {
       "minimap": [
         [-1700,-1700],
@@ -148,7 +148,7 @@
     },
     "bounds": [3400, 3400],
     "photomap": {
-      "tile": "/photomaps/hagenauphoto/{z}_{x}_{y}.jpg"
+      "tile": "/photomaps/haguenauphoto/{z}_{x}_{y}.jpg"
     }
   },
   {
@@ -313,7 +313,7 @@
   {
     "name": "Modded - Merville",
     "url": "/maps/merville/{z}_{x}_{y}.jpg",
-    "bounds": [2777, 2788]
+    "bounds": [2787, 2778]
   },
   {
     "name": "Modded - Overloon",
