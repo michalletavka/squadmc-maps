@@ -205,8 +205,8 @@
     }
   },
   {
-    "name": "Rethymno lite",
-    "url": "/maps/rethymno_lite/{z}_{x}_{y}.jpg",
+    "name": "Rethymno",
+    "url": "/maps/rethymno/{z}_{x}_{y}.jpg",
     "bounds": [4000, 4000]
   },
   {
