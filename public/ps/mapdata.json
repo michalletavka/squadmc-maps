@@ -316,6 +316,11 @@
     "bounds": [2787, 2778]
   },
   {
+    "name": "Modded - Orel",
+    "url": "/maps/orel/{z}_{x}_{y}.jpg",
+    "bounds": [1513, 1513]
+  },
+  {
     "name": "Modded - Overloon",
     "url": "/maps/overloon/{z}_{x}_{y}.jpg",
     "bounds": [4100, 4100]
