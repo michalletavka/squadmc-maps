@@ -311,13 +311,18 @@
     "bounds": [2787, 2787]
   },
   {
+    "name": "Modded - Mednoye",
+    "url": "/maps/mednoye/{z}_{x}_{y}.jpg?2",
+    "bounds": [4033, 4033]
+  },
+  {
     "name": "Modded - Merville",
     "url": "/maps/merville/{z}_{x}_{y}.jpg",
     "bounds": [2787, 2778]
   },
   {
     "name": "Modded - Orel Outskirts",
-    "url": "/maps/orel/{z}_{x}_{y}.jpg",
+    "url": "/maps/orel/{z}_{x}_{y}.jpg?3",
     "bounds": [1513, 1513]
   },
   {
