@@ -160,6 +160,11 @@
     }
   },
   {
+    "name": "Iwo Jima",
+    "url": "/maps/iwojima/{z}_{x}_{y}.jpg",
+    "bounds": [4400, 4400]
+  },
+  {
     "name": "Maginot",
     "url": "/maps/maginot/{z}_{x}_{y}.jpg",
     "heightmap": {
